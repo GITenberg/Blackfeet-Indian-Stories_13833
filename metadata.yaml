@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4021
     wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13833#Blackfeet-Indian-Stories
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2004-10-22'
 gutenberg_type: Text
