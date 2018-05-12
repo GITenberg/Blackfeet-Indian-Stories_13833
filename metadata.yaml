@@ -1,0 +1,28 @@
+_repo: Blackfeet-Indian-Stories_13833
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 13833-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Grinnell, George Bird
+    birthdate: 1849
+    deathdate: 1938
+    gutenberg_agent_id: '4021'
+    url: http://www.gutenberg.org/2009/agents/4021
+    wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
+description: Cover -- Contents.
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2004-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13833'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Siksika Indians -- Folklore'
+- !lcc 'E011'
+title: Blackfeet Indian Stories
+url: http://www.gutenberg.org/ebooks/13833
